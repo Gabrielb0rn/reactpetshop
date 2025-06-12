@@ -14,7 +14,7 @@ const bannerImages = [
     subtitle: "Amor e carinho em cada serviço",
   },
   {
-    src: "/imagens/Banner-01.jpg?height=750&width=1200",
+    src: "/imagens/banner-01.jpg?height=750&width=1200",
     alt: "Banner 2 - Serviços Profissionais",
     title: "Serviços Profissionais",
     subtitle: "Qualidade e excelência garantidas",
